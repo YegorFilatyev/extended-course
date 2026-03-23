@@ -6,7 +6,7 @@
 ## 2. Установка Backend:
 1. Создать виртуальное окружение для проекта.
 2. Прописать в консоле:
-   > pip install fastapi bcrypt python-jose python-dotenv dotenv flake8 psycopg2
+   > pip install fastapi bcrypt python-jose python-dotenv dotenv flake8 psycopg2 uvicorn
 3. Заменить в файле **.env** данные о БД на свои.
 4. Запуск осуществляется через команду:
    > python main.py
